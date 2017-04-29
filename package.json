@@ -1,0 +1,17 @@
+{
+  "name": "eslint-vanadis-react",
+  "version": "1.0.0",
+  "description": "This package provides vanadis's react JS .eslintrc as an extensible shared config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HISAME SHIZUMARU",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
