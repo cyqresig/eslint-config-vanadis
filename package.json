@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vanadis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides vanadis's react JS .eslintrc as an extensible shared config.",
   "main": "index.js",
   "scripts": {
