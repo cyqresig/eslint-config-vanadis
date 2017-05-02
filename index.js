@@ -56,6 +56,7 @@ module.exports = {
         "react/forbid-component-props": "off",
         "react/require-default-props": "off",
         "react/prop-types": "off",
+        "react/no-set-state": "off",
     },
     "globals": {
         "Promise": true,
